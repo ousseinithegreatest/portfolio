@@ -1,0 +1,58 @@
+nav {
+  margin-top: 10px;
+}
+
+.nav-content h1 {
+  color: #439775;
+}
+
+.nav-content {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-content ul {
+  display: flex;
+  list-style: none;
+}
+
+.nav-content a {
+  text-decoration: none;
+  color: #000;
+}
+
+.nav-content li {
+  padding: 0 10px;
+  font-weight: 600;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  /* background-color: tomato; */
+  margin-top: 70px;
+  width: 100%;
+}
+
+.text {
+  /* background-color: yellowgreen; */
+  width: 800px;
+}
+
+.text h3 {
+  font-size: 60px;
+}
+
+.btn-group {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-group button {
+  border: none;
+  margin: 30px 10px;
+  color: #000;
+  cursor: pointer;
+  font-weight: bolde;
+  background-color: transparent;
+}
