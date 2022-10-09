@@ -40,7 +40,8 @@ export default function Navbar() {
             quo, nemo in at. Animi, quis aliquid illum ex nemo cupiditate
             corporis ipsa eveniet eligendi? Sed recusandae aperiam sunt modi
             aliquam nisi autem blanditiis!
-            <div className="btn-group">
+          </p>
+          <div className="btn-group">
               <button>
                 <GitHubIcon fontSize='large'/>
               </button>
@@ -48,7 +49,6 @@ export default function Navbar() {
                 <ArticleIcon fontSize='large'/>
               </button>
             </div>
-          </p>
         </div>
       </div>
     </header>

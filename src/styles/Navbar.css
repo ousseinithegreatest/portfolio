@@ -1,9 +1,18 @@
+header {
+  height: 670px;
+}
+
 nav {
   margin-top: 10px;
 }
 
 .nav-content h1 {
   color: #439775;
+  font-size: x-large;
+}
+
+.content p {
+  text-align: justify;
 }
 
 .nav-content {
@@ -41,6 +50,7 @@ nav {
 
 .text h3 {
   font-size: 60px;
+  text-align: center;
 }
 
 .btn-group {
@@ -56,3 +66,4 @@ nav {
   font-weight: bolde;
   background-color: transparent;
 }
+
