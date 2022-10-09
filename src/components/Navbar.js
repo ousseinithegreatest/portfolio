@@ -27,7 +27,7 @@ export default function Navbar() {
         </div>
       </nav>
       <div className="content">
-        <img src="./images/hello.svg" alt="hello" width={700} />
+        <img src="./images/hello.svg" alt="hello" width={800}/>
         <div className="text">
           <h3>Hi i'm Ousseini</h3>
           <p>
