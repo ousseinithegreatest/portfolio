@@ -44,7 +44,7 @@ const Skills = [
     img: "./images/skills/csharp.svg"
   },
   {
-    id: "C#",
+    id: "ASP .NET CORE",
     img: "./images/skills/net-core.svg"
   },
 ];
