@@ -1,0 +1,40 @@
+h3 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  /* width: 600px; */
+  /* background: rebeccapurple; */
+  justify-content: center;
+}
+
+.card {
+  /* background: white; */
+  width:400px;
+  /* overflow: ; */
+  height: auto;
+margin: 50px 14px;
+border-top: 2px solid #439775;
+border-right: 2px solid #439775;
+}
+
+.card h4 {
+  text-align: center;
+  color: #439775;
+}
+
+.card p {
+  padding: 0 5px;
+}
+
+.card a {
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: #439775;
+  color: white;
+  padding: 7px;
+  border-radius: 999px;
+}
