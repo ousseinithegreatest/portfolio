@@ -10,11 +10,13 @@
 }
 
 .skills ul {
+  list-style-type: none;
   display: flex;
-  list-style: none;
-  justify-content: center;
+  justify-content: flex-start;
+  align-content: flex-start;
+  flex-direction: row;
   flex-wrap: wrap;
-  align-items: center;
+  margin-top: 45px;
 }
 .skills li {
   margin: 0 10px;
@@ -24,11 +26,12 @@
   display: flex;
   justify-content: center;
   margin: 50px 0;
+  padding: 0 120px;
 }
 
 .info p {
   /* background-color: rebeccapurple; */
   margin-top: 40px;
-  width: 600px;
+  width: 800px;
   text-align: justify;
 }

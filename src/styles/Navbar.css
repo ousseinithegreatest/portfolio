@@ -9,6 +9,9 @@ nav {
 .nav-content h1 {
   color: #439775;
   font-size: x-large;
+  /* background-color: #439775; */
+
+
 }
 
 .content p {
@@ -33,6 +36,8 @@ nav {
 .nav-content li {
   padding: 0 10px;
   font-weight: 600;
+  /* background-color: aqua; */
+  font-size: 18px;
 }
 
 .content {
