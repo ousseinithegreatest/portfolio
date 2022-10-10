@@ -32,20 +32,28 @@ const Skills = [
     img: './images/skills/next-js.svg',
   },
   {
-    id: "DART",
-    img: "./images/skills/dart.svg"
+    id: 'DART',
+    img: './images/skills/dart.svg',
   },
   {
-    id: "FLUTTER",
-    img: "./images/skills/flutter.svg"
+    id: 'FLUTTER',
+    img: './images/skills/flutter.svg',
   },
   {
-    id: "C#",
-    img: "./images/skills/csharp.svg"
+    id: 'C#',
+    img: './images/skills/csharp.svg',
   },
   {
-    id: "ASP .NET CORE",
-    img: "./images/skills/net-core.svg"
+    id: 'ASP .NET CORE',
+    img: './images/skills/net-core.svg',
+  },
+  {
+    id: 'PYTHON',
+    img: './images/skills/python.svg',
+  },
+  {
+    id: 'DJANGO',
+    img: './images/skills/django.svg',
   },
 ];
 
