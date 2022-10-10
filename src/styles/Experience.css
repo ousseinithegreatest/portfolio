@@ -1,0 +1,15 @@
+h3 {
+  margin-bottom: 50px;
+  text-align: center;
+  font-size: 50px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+}
+
+.infos {
+  width: 700px;
+  /* background: indianred; */
+}

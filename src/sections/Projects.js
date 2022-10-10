@@ -14,11 +14,12 @@ export default function Projects() {
             <div className='card' key={item.id}>
               <h4>{item.title}</h4>
               <p>{item.description}</p>
-              <a href={item.link}>GitHub</a>
+              <a href={item.link} target='blank'>GitHub</a>
             </div>
           ))
         }
       </div>
+      <a href="https://github.com/ousseinithegreatest?tab=repositories" id='repos' target='blank'>ALL PROJECTS</a>
     </>
   );
 }
