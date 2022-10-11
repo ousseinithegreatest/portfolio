@@ -4,3 +4,8 @@ html, body {
   box-sizing: border-box;
   /* background: #f1f1f1; */
 }
+
+.app {
+  position: relative;
+  min-height: 100vh;
+}
